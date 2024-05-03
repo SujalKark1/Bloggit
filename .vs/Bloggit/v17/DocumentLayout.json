@@ -1,0 +1,382 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\Bloggit\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D9D493F-A6ED-4ABA-80B4-63811AC8C083}|bloggit.client\\bloggit.client.esproj|c:\\users\\asus\\source\\repos\\bloggit\\bloggit.client\\src\\components\\login.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2D9D493F-A6ED-4ABA-80B4-63811AC8C083}|bloggit.client\\bloggit.client.esproj|solutionrelative:bloggit.client\\src\\components\\login.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\source\\repos\\Bloggit\\Bloggit.Server\\Migrations\\20240503044648_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bloggit.Server\\Migrations\\20240503044648_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{121A8FA0-8C63-4E2A-AA4F-CF5B94C238D6}|Bloggit.Server\\Bloggit.Server.csproj|c:\\users\\asus\\source\\repos\\bloggit\\bloggit.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{121A8FA0-8C63-4E2A-AA4F-CF5B94C238D6}|Bloggit.Server\\Bloggit.Server.csproj|solutionrelative:bloggit.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{121A8FA0-8C63-4E2A-AA4F-CF5B94C238D6}|Bloggit.Server\\Bloggit.Server.csproj|c:\\users\\asus\\source\\repos\\bloggit\\bloggit.server\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{121A8FA0-8C63-4E2A-AA4F-CF5B94C238D6}|Bloggit.Server\\Bloggit.Server.csproj|solutionrelative:bloggit.server\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{121A8FA0-8C63-4E2A-AA4F-CF5B94C238D6}|Bloggit.Server\\Bloggit.Server.csproj|c:\\users\\asus\\source\\repos\\bloggit\\bloggit.server\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{121A8FA0-8C63-4E2A-AA4F-CF5B94C238D6}|Bloggit.Server\\Bloggit.Server.csproj|solutionrelative:bloggit.server\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{121A8FA0-8C63-4E2A-AA4F-CF5B94C238D6}|Bloggit.Server\\Bloggit.Server.csproj|c:\\users\\asus\\source\\repos\\bloggit\\bloggit.server\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{121A8FA0-8C63-4E2A-AA4F-CF5B94C238D6}|Bloggit.Server\\Bloggit.Server.csproj|solutionrelative:bloggit.server\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D9D493F-A6ED-4ABA-80B4-63811AC8C083}|bloggit.client\\bloggit.client.esproj|c:\\users\\asus\\source\\repos\\bloggit\\bloggit.client\\src\\components\\admin.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2D9D493F-A6ED-4ABA-80B4-63811AC8C083}|bloggit.client\\bloggit.client.esproj|solutionrelative:bloggit.client\\src\\components\\admin.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D9D493F-A6ED-4ABA-80B4-63811AC8C083}|bloggit.client\\bloggit.client.esproj|c:\\users\\asus\\source\\repos\\bloggit\\bloggit.client\\src\\components\\home.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2D9D493F-A6ED-4ABA-80B4-63811AC8C083}|bloggit.client\\bloggit.client.esproj|solutionrelative:bloggit.client\\src\\components\\home.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D9D493F-A6ED-4ABA-80B4-63811AC8C083}|bloggit.client\\bloggit.client.esproj|c:\\users\\asus\\source\\repos\\bloggit\\bloggit.client\\vite.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2D9D493F-A6ED-4ABA-80B4-63811AC8C083}|bloggit.client\\bloggit.client.esproj|solutionrelative:bloggit.client\\vite.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{121A8FA0-8C63-4E2A-AA4F-CF5B94C238D6}|Bloggit.Server\\Bloggit.Server.csproj|c:\\users\\asus\\source\\repos\\bloggit\\bloggit.server\\bloggit.server.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{121A8FA0-8C63-4E2A-AA4F-CF5B94C238D6}|Bloggit.Server\\Bloggit.Server.csproj|solutionrelative:bloggit.server\\bloggit.server.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{121A8FA0-8C63-4E2A-AA4F-CF5B94C238D6}|Bloggit.Server\\Bloggit.Server.csproj|c:\\users\\asus\\source\\repos\\bloggit\\bloggit.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{121A8FA0-8C63-4E2A-AA4F-CF5B94C238D6}|Bloggit.Server\\Bloggit.Server.csproj|solutionrelative:bloggit.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D9D493F-A6ED-4ABA-80B4-63811AC8C083}|bloggit.client\\bloggit.client.esproj|c:\\users\\asus\\source\\repos\\bloggit\\bloggit.client\\src\\protectedroutes.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2D9D493F-A6ED-4ABA-80B4-63811AC8C083}|bloggit.client\\bloggit.client.esproj|solutionrelative:bloggit.client\\src\\protectedroutes.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D9D493F-A6ED-4ABA-80B4-63811AC8C083}|bloggit.client\\bloggit.client.esproj|c:\\users\\asus\\source\\repos\\bloggit\\bloggit.client\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2D9D493F-A6ED-4ABA-80B4-63811AC8C083}|bloggit.client\\bloggit.client.esproj|solutionrelative:bloggit.client\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D9D493F-A6ED-4ABA-80B4-63811AC8C083}|bloggit.client\\bloggit.client.esproj|c:\\users\\asus\\source\\repos\\bloggit\\bloggit.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2D9D493F-A6ED-4ABA-80B4-63811AC8C083}|bloggit.client\\bloggit.client.esproj|solutionrelative:bloggit.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D9D493F-A6ED-4ABA-80B4-63811AC8C083}|bloggit.client\\bloggit.client.esproj|c:\\users\\asus\\source\\repos\\bloggit\\bloggit.client\\src\\components\\register.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2D9D493F-A6ED-4ABA-80B4-63811AC8C083}|bloggit.client\\bloggit.client.esproj|solutionrelative:bloggit.client\\src\\components\\register.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D9D493F-A6ED-4ABA-80B4-63811AC8C083}|bloggit.client\\bloggit.client.esproj|c:\\users\\asus\\source\\repos\\bloggit\\bloggit.client\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2D9D493F-A6ED-4ABA-80B4-63811AC8C083}|bloggit.client\\bloggit.client.esproj|solutionrelative:bloggit.client\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D9D493F-A6ED-4ABA-80B4-63811AC8C083}|bloggit.client\\bloggit.client.esproj|c:\\users\\asus\\source\\repos\\bloggit\\bloggit.client\\.eslintrc.cjs||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2D9D493F-A6ED-4ABA-80B4-63811AC8C083}|bloggit.client\\bloggit.client.esproj|solutionrelative:bloggit.client\\.eslintrc.cjs||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D9D493F-A6ED-4ABA-80B4-63811AC8C083}|bloggit.client\\bloggit.client.esproj|c:\\users\\asus\\source\\repos\\bloggit\\bloggit.client\\nuget.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2D9D493F-A6ED-4ABA-80B4-63811AC8C083}|bloggit.client\\bloggit.client.esproj|solutionrelative:bloggit.client\\nuget.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{121A8FA0-8C63-4E2A-AA4F-CF5B94C238D6}|Bloggit.Server\\Bloggit.Server.csproj|c:\\users\\asus\\source\\repos\\bloggit\\bloggit.server\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{121A8FA0-8C63-4E2A-AA4F-CF5B94C238D6}|Bloggit.Server\\Bloggit.Server.csproj|solutionrelative:bloggit.server\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{121A8FA0-8C63-4E2A-AA4F-CF5B94C238D6}|Bloggit.Server\\Bloggit.Server.csproj|c:\\users\\asus\\source\\repos\\bloggit\\bloggit.server\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{121A8FA0-8C63-4E2A-AA4F-CF5B94C238D6}|Bloggit.Server\\Bloggit.Server.csproj|solutionrelative:bloggit.server\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.jsx",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Bloggit\\bloggit.client\\src\\components\\Login.jsx",
+              "RelativeDocumentMoniker": "bloggit.client\\src\\components\\Login.jsx",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Bloggit\\bloggit.client\\src\\components\\Login.jsx",
+              "RelativeToolTip": "bloggit.client\\src\\components\\Login.jsx",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAYwEwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-05-03T03:46:08.033Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1944558347:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20240503044648_initial.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Bloggit\\Bloggit.Server\\Migrations\\20240503044648_initial.cs",
+              "RelativeDocumentMoniker": "Bloggit.Server\\Migrations\\20240503044648_initial.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Bloggit\\Bloggit.Server\\Migrations\\20240503044648_initial.cs",
+              "RelativeToolTip": "Bloggit.Server\\Migrations\\20240503044648_initial.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T04:46:48.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Admin.jsx",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Bloggit\\bloggit.client\\src\\components\\Admin.jsx",
+              "RelativeDocumentMoniker": "bloggit.client\\src\\components\\Admin.jsx",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Bloggit\\bloggit.client\\src\\components\\Admin.jsx",
+              "RelativeToolTip": "bloggit.client\\src\\components\\Admin.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-05-03T03:45:47.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Bloggit\\Bloggit.Server\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Bloggit.Server\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Bloggit\\Bloggit.Server\\Models\\User.cs",
+              "RelativeToolTip": "Bloggit.Server\\Models\\User.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T03:10:57.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Home.jsx",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Bloggit\\bloggit.client\\src\\components\\Home.jsx",
+              "RelativeDocumentMoniker": "bloggit.client\\src\\components\\Home.jsx",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Bloggit\\bloggit.client\\src\\components\\Home.jsx",
+              "RelativeToolTip": "bloggit.client\\src\\components\\Home.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-05-03T03:46:01.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Bloggit\\Bloggit.Server\\Models\\Login.cs",
+              "RelativeDocumentMoniker": "Bloggit.Server\\Models\\Login.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Bloggit\\Bloggit.Server\\Models\\Login.cs",
+              "RelativeToolTip": "Bloggit.Server\\Models\\Login.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T03:10:34.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "vite.config.js",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Bloggit\\bloggit.client\\vite.config.js",
+              "RelativeDocumentMoniker": "bloggit.client\\vite.config.js",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Bloggit\\bloggit.client\\vite.config.js",
+              "RelativeToolTip": "bloggit.client\\vite.config.js",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAADEAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-03T03:26:02.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Bloggit.Server",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Bloggit\\Bloggit.Server\\Bloggit.Server.csproj",
+              "RelativeDocumentMoniker": "Bloggit.Server\\Bloggit.Server.csproj",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Bloggit\\Bloggit.Server\\Bloggit.Server.csproj",
+              "RelativeToolTip": "Bloggit.Server\\Bloggit.Server.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-03T03:42:03.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": ".eslintrc.cjs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Bloggit\\bloggit.client\\.eslintrc.cjs",
+              "RelativeDocumentMoniker": "bloggit.client\\.eslintrc.cjs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Bloggit\\bloggit.client\\.eslintrc.cjs",
+              "RelativeToolTip": "bloggit.client\\.eslintrc.cjs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-03T03:28:08.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Bloggit\\bloggit.client\\package.json",
+              "RelativeDocumentMoniker": "bloggit.client\\package.json",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Bloggit\\bloggit.client\\package.json",
+              "RelativeToolTip": "bloggit.client\\package.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-03T03:26:37.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Bloggit\\Bloggit.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "Bloggit.Server\\appsettings.json",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Bloggit\\Bloggit.Server\\appsettings.json",
+              "RelativeToolTip": "Bloggit.Server\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-03T03:12:50.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Bloggit\\Bloggit.Server\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Bloggit.Server\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Bloggit\\Bloggit.Server\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Bloggit.Server\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T03:24:28.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "nuget.config",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Bloggit\\bloggit.client\\nuget.config",
+              "RelativeDocumentMoniker": "bloggit.client\\nuget.config",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Bloggit\\bloggit.client\\nuget.config",
+              "RelativeToolTip": "bloggit.client\\nuget.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-03T03:27:38.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Bloggit\\Bloggit.Server\\Program.cs",
+              "RelativeDocumentMoniker": "Bloggit.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Bloggit\\Bloggit.Server\\Program.cs",
+              "RelativeToolTip": "Bloggit.Server\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T03:12:43.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProtectedRoutes.jsx",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Bloggit\\bloggit.client\\src\\ProtectedRoutes.jsx",
+              "RelativeDocumentMoniker": "bloggit.client\\src\\ProtectedRoutes.jsx",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Bloggit\\bloggit.client\\src\\ProtectedRoutes.jsx",
+              "RelativeToolTip": "bloggit.client\\src\\ProtectedRoutes.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-05-03T03:08:49.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Register.jsx",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Bloggit\\bloggit.client\\src\\components\\Register.jsx",
+              "RelativeDocumentMoniker": "bloggit.client\\src\\components\\Register.jsx",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Bloggit\\bloggit.client\\src\\components\\Register.jsx",
+              "RelativeToolTip": "bloggit.client\\src\\components\\Register.jsx",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAwDwAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-05-03T03:46:17.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "main.jsx",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Bloggit\\bloggit.client\\src\\main.jsx",
+              "RelativeDocumentMoniker": "bloggit.client\\src\\main.jsx",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Bloggit\\bloggit.client\\src\\main.jsx",
+              "RelativeToolTip": "bloggit.client\\src\\main.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-05-03T03:46:52.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "App.jsx",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Bloggit\\bloggit.client\\src\\App.jsx",
+              "RelativeDocumentMoniker": "bloggit.client\\src\\App.jsx",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Bloggit\\bloggit.client\\src\\App.jsx",
+              "RelativeToolTip": "bloggit.client\\src\\App.jsx",
+              "ViewState": "AQIAACYAAAAAAAAAAAAAwCEAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-05-03T03:08:18.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Bloggit\\Bloggit.Server\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Bloggit.Server\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Bloggit\\Bloggit.Server\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Bloggit.Server\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T03:21:50.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Bloggit\\Bloggit.Server\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Bloggit.Server\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Bloggit\\Bloggit.Server\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Bloggit.Server\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T03:12:25.653Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
