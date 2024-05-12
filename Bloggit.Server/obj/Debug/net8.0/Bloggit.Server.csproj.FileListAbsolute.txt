@@ -387,3 +387,4 @@ C:\Users\ACER\Desktop\AppDev 2nd CW\Bloggit\Bloggit.Server\bin\Debug\net8.0\runt
 C:\Users\ACER\Desktop\AppDev 2nd CW\Bloggit\Bloggit.Server\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
 C:\Users\ACER\Desktop\AppDev 2nd CW\Bloggit\Bloggit.Server\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
 C:\Users\ACER\Desktop\AppDev 2nd CW\Bloggit\Bloggit.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ACER\Desktop\AppDev 2nd CW\Bloggit\Bloggit.Server\bin\Debug\net8.0\Bloggit.Server.staticwebassets.runtime.json

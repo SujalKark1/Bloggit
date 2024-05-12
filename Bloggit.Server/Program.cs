@@ -18,6 +18,9 @@ using Bloggit.Notification;
 
 var builder = WebApplication.CreateBuilder(args);
 
+
+
+
 // Remove this for auth remove
 
 var configuration = new ConfigurationBuilder()
