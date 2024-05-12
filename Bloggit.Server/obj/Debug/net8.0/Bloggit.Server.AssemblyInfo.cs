@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Bloggit.Server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9044c55bedbfc72af837826c3755bd121248861d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Bloggit.Server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Bloggit.Server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
